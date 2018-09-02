@@ -2,3 +2,30 @@
 	height: 200px;
 	width: 1600px;
 }
+
+.mainimg{
+	background-color: rgba(0,0,0,.2);
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 350px;
+}
+
+#searchbox{
+	  width: 280px;
+	  margin: 0 auto; 
+	  margin-top: 50px;	  
+
+}
+
+#searchbox > select{
+	width: 100px;
+	height: 50px;
+	text-align-last:center;
+
+}
+
+#searchbox > select > option{
+	text-align: center;
+}

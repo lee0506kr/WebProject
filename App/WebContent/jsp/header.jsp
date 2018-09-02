@@ -15,7 +15,7 @@
 	<div class="navber">
 		 <div class="container">
 		
-		<a class="logo" href="/index.jsp">JUAN SHOP</a>
+		<a class="logo" href="/index.jsp">Test Logo</a>
 		
 		<ul class="menu">
 			<li><a>지역</a></li>
