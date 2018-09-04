@@ -17,7 +17,7 @@
 		
 		<a class="logo" href="/index.jsp">Test Logo</a>
 		
-		<ul class="menu">
+		<ul class="headermenu">
 			<li><a>지역</a></li>
 			<li><a>지역</a></li>
 			<li><a>지역</a></li>	

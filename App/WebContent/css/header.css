@@ -35,12 +35,12 @@ a {
 	background-color: transparent;
 }
 
-.menu {
+.headermenu {
 	position: relative;
 	float: left;
 }
 
-.menu > li {
+.headermenu > li {
 	display: inline-block;
 	position: relative;
 	padding: 10px 15px;
